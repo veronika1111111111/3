@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[1]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[10]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[13]]></data>
+  <data name="en_spotpoint185_tooltip"><![CDATA[1]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[2]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[24]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[3]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[4]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[5 1]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[6]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[7]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[8]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[9]]></data>
+  <data name="en_spotpoint183_tooltip"><![CDATA[3]]></data>
+  <data name="en_spotpoint184_tooltip"><![CDATA[2]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
